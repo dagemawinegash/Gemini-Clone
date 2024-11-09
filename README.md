@@ -11,13 +11,13 @@ Currently, two official plugins are available:
 
 A modern web application inspired by the Gemini 2.0 platform, built using the latest web technologies. This clone allows users to browse, explore, and interact with the platform's features in a sleek and user-friendly interface.
 
-## Demo
+## 🌐 Demo
 
 You can check out the live demo of the Gemini 2.0 Clone here:
 
 [Gemini 2.0 Clone Demo]
 
-## Features
+## ✨ Features
 
 - **User-Friendly Interface**: A sleek, clean design that makes browsing and interacting with the platform seamless.
 - **Responsive Design**: Optimized for both desktop and mobile devices to ensure accessibility and usability across platforms.
