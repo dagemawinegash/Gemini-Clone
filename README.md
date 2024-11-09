@@ -13,9 +13,7 @@ A modern web application inspired by the Gemini 2.0 platform, built using the la
 
 ## 🌐 Demo
 
-You can check out the live demo of the Gemini 2.0 Clone here:
-
-[Gemini 2.0 Clone Demo](https://gemini-clone-new.vercel.app/)
+You can check out the live demo of the Gemini 2.0 Clone here: [Gemini 2.0 Clone Demo](https://gemini-clone-new.vercel.app/)
 
 ## ✨ Features
 
